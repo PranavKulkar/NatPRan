@@ -1,0 +1,7 @@
+{
+  "Sectors": [
+    { "sid": 1, "name": "Automobile", "SubSectors": [{"name":"maintainance"},{"name":"painting"},{"name":"sales"}]},
+    { "sid": 2, "name": "GasAndOil", "SubSectors": [{"name":"maintainance"},{"name":"production"}]},
+    { "sid": 3, "name": "Healthcare","SubSectors": [{"name":"sales"},{"name":"orthology"},{"name":"ambulance"}]}
+  ],
+}
